@@ -1,1 +1,2 @@
-- I am 5 years in the corporate world, I migrated from the administrative area to the Human Resources area through the Psychology course to help people and impact their lives in a positive way, because that's what I love to do! I have been in the Human Resources area for 1 year and today my focus is Talent Acquisition within the Recruitment and Selection and People and Culture area. <3 
+- Recruiting the best tech professionals for Google by Randstad
+- Open Positions: Junior-Mid software engineers (Java, Python, C++, Go, Javascript) + Conversational english required 
